@@ -1,0 +1,8 @@
+Flask==3.0.0
+flask-cors
+geopandas
+shapely
+mesa
+networkx
+numpy
+gunicorn
