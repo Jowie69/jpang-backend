@@ -2,8 +2,7 @@ Flask==3.0.0
 flask-cors
 geopandas
 shapely
-mesa
+mesa==1.3.0
 networkx
 numpy
 gunicorn
-mesa==1.3.0
